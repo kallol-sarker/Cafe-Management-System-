@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form2.resources
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form3.resources
+C:\Users\User\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form4.resources
